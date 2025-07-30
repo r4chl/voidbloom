@@ -1,0 +1,93 @@
+{
+  "palette": "voidbloom-singularity",
+  "colors": [
+    {
+      "name": "01 bg0",
+      "color": "#dfd5de"
+    },
+    {
+      "name": "02 bg1",
+      "color": "#e9e1e7"
+    },
+    {
+      "name": "03 bg2",
+      "color": "#f2ecee"
+    },
+    {
+      "name": "04 surface0",
+      "color": "#d4cad4"
+    },
+    {
+      "name": "05 surface1",
+      "color": "#c9c0cb"
+    },
+    {
+      "name": "06 surface2",
+      "color": "#beb4b0"
+    },
+    {
+      "name": "07 overlay0",
+      "color": "#b2a8b6"
+    },
+    {
+      "name": "08 overlay1",
+      "color": "#a69cad"
+    },
+    {
+      "name": "09 overlay2",
+      "color": "#9b91a3"
+    },
+    {
+      "name": "10 subtext0",
+      "color": "#6d5a74"
+    },
+    {
+      "name": "11 subtext1",
+      "color": "#4a3b52"
+    },
+    {
+      "name": "12 text",
+      "color": "#261931"
+    },
+    {
+      "name": "13 red",
+      "color": "#9e2a46"
+    },
+    {
+      "name": "14 orange",
+      "color": "#b46436"
+    },
+    {
+      "name": "15 yellow",
+      "color": "#ba9744"
+    },
+    {
+      "name": "16 green",
+      "color": "#4f854b"
+    },
+    {
+      "name": "17 teal",
+      "color": "#2e7a6e"
+    },
+    {
+      "name": "18 cyan",
+      "color": "#157a8c"
+    },
+    {
+      "name": "19 blue",
+      "color": "#3b59b4"
+    },
+    {
+      "name": "20 purple",
+      "color": "#7e45a7"
+    },
+    {
+      "name": "21 pink",
+      "color": "#a24e7a"
+    },
+    {
+      "name": "22 gray",
+      "color": "#8a7e8e"
+    }
+  ]
+}
