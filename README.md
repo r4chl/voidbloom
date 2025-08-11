@@ -88,7 +88,17 @@
   </details>
   <details>
     <summary>Singularity</summary>
-    <p>Singularity</p>
+    <table id="singularity">
+      <thead>
+        <th></th>
+        <th>Name</th>
+        <th>HEX</th>
+        <th>RGB</th>
+        <th>HSL</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
   </details>
 </div>
 &nbsp;
